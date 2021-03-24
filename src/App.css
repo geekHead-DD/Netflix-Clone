@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: rgba(42, 42, 42);
+}
+
+* {
+  font-family: "Poppins", "Helvetica";
+  font-weight: 10px;
+}
+
+h4 {
+  margin-top: 10px;
+  font-weight: lighter;
+
+  font-size: 20px;
+  color: rgb(219, 219, 219);
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+
+  color: rgb(241, 82, 82);
+}
